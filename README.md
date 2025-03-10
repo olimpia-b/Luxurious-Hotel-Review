@@ -1,6 +1,6 @@
 # BA820 - Group 9 
 
-## Hospitality Intelligence: Extracting Insights from Hotel Reviews
+## Hospitality Intelligence: Extracting Insights from Hotel Reviews 
 
 **By**: Sricharan Mahavadi, Chen He, Eric Bai, Min Xu, Olimpia Borgohain
 
@@ -23,12 +23,6 @@ Can machine learning unlock insights from hotel reviews to help travelers find t
 - **DBSCAN Clustering**
 - **Sentiment analysis** using NLP techniques like tokenization, lemmatization with NLTK to classify review sentiment and identify positive/negative hotel features.
 - **Market Basket Analysis** to set up recommendation system
-
-### Process Flow Chart:
-A more detailed approach to our project can be found [here](link_to_process_flow_chart).
-
-### Timelines:
-The proposed timelines for the project can be found [here](link_to_timelines).
 
 ### Business Relevance and Implications:
 By extracting insights from reviews, this project helps hotels boost guest satisfaction and revenue through targeted improvements, personalized recommendations, sentiment analysis, and data-driven competitive advantages, tapping into the Trillion Dollar$ Hospitality Industry.
